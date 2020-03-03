@@ -4,7 +4,6 @@
  * Handles all separate threads of ClientHandler class.
  * 
  * @author Ivar Lund
- * ivlu1468
  * ivarnilslund@gmail.com'
  * 
  */
